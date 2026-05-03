@@ -1,6 +1,6 @@
 # SaaS Product Analytics
 
-**[Live demo](LIVE_DEMO_URL_PLACEHOLDER)**: runs in the browser, no install required.
+**[Live demo](https://mason-saas-analytics.streamlit.app/)**: runs in the browser, no install required.
 
 End-to-end **product-analytics dashboard** showing the metric views a
 Product Manager looks at every week (activation funnel, cohort
